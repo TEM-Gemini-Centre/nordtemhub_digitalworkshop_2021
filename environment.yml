@@ -4,3 +4,5 @@ dependencies:
   - hyperspy-base
   - hyperspy-gui-ipywidgets
   - ipympl
+  - atomap
+  - pyxem
